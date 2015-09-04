@@ -1,0 +1,10 @@
+html {
+  background-color: grey;
+}
+
+.panel {
+    display: inline-block;
+    width: 33%;
+    height:10%;
+    background-color: white;
+}

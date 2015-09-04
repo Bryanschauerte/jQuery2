@@ -5,6 +5,13 @@ html {
 .panel {
     display: inline-block;
     width: 33%;
-    height:10%;
+    height:20%;
     background-color: white;
+
+}
+.panelContainer {
+  margin-top: 15px;
+  display: flex;
+align-items: stretch;
+justify-content: space-around;
 }
